@@ -25,19 +25,18 @@ It calls the maxValue function to determine the utility value for the computer p
 and calls the play_game function with the initial state. 
 
 
-How to Run :
-        1. Install Python3 or check version of your python 
-        2. Navigate to the right directory>
-        3. Run the command -    python red_blue_nim.py <num-red> <num-blue> <first-player>
-        4. Once the below prompts comes up to choose human move 
-                                    Choose an action:
-                                        Red
-                                        Blue
-            Type red or blue in any case. String is not case-sensitive.
-            All type of cases work.
-        5. When its the computer's turn ,the move and the current state will be displayed on the terminal.
+**How to Run :**
+-Install Python3 or check version of your python 
+-Navigate to the right directory>
+-Run the command -    python red_blue_nim.py <num-red> <num-blue> <first-player>
+-Once the below prompts comes up to choose human move 
+        Choose an action:
+        Red
+        Blue
+        Type red or blue in any case. String is not case-sensitive.
+-When its the computer's turn ,the move and the current state will be displayed on the terminal.
         For example             Computer's turn...
                                 Computer picked red
                                 Current state: 2 red marbles, 1 blue marbles
-        6. Alternate between computer and human
-        7. Once the game ends the winner and score will be displayed.
+-Alternate between computer and human
+-Once the game ends the winner and score will be displayed.
